@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>pic028.jpg</filename>
+	<path>C:\Users\u162248\Downloads\EZwerge\data\images\train\pic028.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fahrt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>27</ymin>
+			<xmax>426</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

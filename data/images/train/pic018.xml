@@ -1,26 +1,38 @@
 <annotation>
-	<folder>train</folder>
+	<folder>EZwerge</folder>
 	<filename>pic018.jpg</filename>
-	<path>C:\Users\u162248\Downloads\EZwerge\data\images\train\pic018.jpg</path>
+	<path>C:\Users\u162248\Downloads\EZwerge\pic018.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>960</width>
-		<height>320</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Ente</name>
+		<name>Fahrt</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>833</xmin>
-			<ymin>63</ymin>
-			<xmax>902</xmax>
-			<ymax>141</ymax>
+			<xmin>130</xmin>
+			<ymin>200</ymin>
+			<xmax>302</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fahrt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>202</ymin>
+			<xmax>513</xmax>
+			<ymax>389</ymax>
 		</bndbox>
 	</object>
 </annotation>

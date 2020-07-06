@@ -1,13 +1,13 @@
 <annotation>
-	<folder>train</folder>
+	<folder>EZwerge</folder>
 	<filename>pic028.jpg</filename>
-	<path>C:\Users\u162248\Downloads\EZwerge\data\images\train\pic028.jpg</path>
+	<path>C:\Users\u162248\Downloads\EZwerge\pic028.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>960</width>
-		<height>320</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>247</xmin>
-			<ymin>27</ymin>
-			<xmax>426</xmax>
-			<ymax>205</ymax>
+			<xmin>379</xmin>
+			<ymin>214</ymin>
+			<xmax>455</xmax>
+			<ymax>302</ymax>
 		</bndbox>
 	</object>
 </annotation>

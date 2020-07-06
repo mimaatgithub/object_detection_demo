@@ -1,26 +1,26 @@
 <annotation>
-	<folder>train</folder>
+	<folder>EZwerge</folder>
 	<filename>pic067.jpg</filename>
-	<path>C:\Users\u162248\Downloads\EZwerge\data\images\train\pic067.jpg</path>
+	<path>C:\Users\u162248\Downloads\EZwerge\pic067.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>960</width>
-		<height>320</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>Halt</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>549</xmin>
-			<ymin>44</ymin>
-			<xmax>659</xmax>
-			<ymax>155</ymax>
+			<xmin>1</xmin>
+			<ymin>190</ymin>
+			<xmax>155</xmax>
+			<ymax>406</ymax>
 		</bndbox>
 	</object>
 </annotation>
